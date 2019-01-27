@@ -1,0 +1,54 @@
+{
+  "brampton-and-hinchingbrooke": [
+    "town-centre",
+    "stukeley-meadows",
+    "godmanchester"
+  ],
+  "town-centre": [
+    "brampton-and-hinchingbrooke",
+    "stukeley-meadows",
+    "sapley",
+    "hartford",
+    "godmanchester"
+  ],
+  "stukeley-meadows": [
+    "brampton-and-hinchingbrooke",
+    "town-centre",
+    "sapley"
+  ],
+  "sapley": [
+    "town-centre",
+    "stukeley-meadows",
+    "hartford"
+  ],
+  "hartford": [
+    "town-centre",
+    "sapley",
+    "houghton-wyton",
+    "godmanchester",
+    "hemingford-abbots-grey"
+  ],
+  "houghton-wyton": [
+    "hartford",
+    "st-ives",
+    "godmanchester",
+    "hemingford-abbots-grey"
+  ],
+  "st-ives": [
+    "houghton-wyton",
+    "hemingford-abbots-grey"
+  ],
+  "godmanchester": [
+    "brampton-and-hinchingbrooke",
+    "town-centre",
+    "hartford",
+    "houghton-wyton",
+    "hemingford-abbots-grey"
+  ],
+  "hemingford-abbots-grey": [
+    "hartford",
+    "houghton-wyton",
+    "st-ives",
+    "godmanchester"
+  ]
+}
